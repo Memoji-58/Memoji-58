@@ -1,4 +1,4 @@
-# Hi there, I'm [Dein Name]! 👋
+# Hi there, I'm Mehmet Yagiz Yüksekkaya! 👋
 
 👨‍💻 **Full Stack Developer in Training** | Passionate about Frontend, Backend, and DevSec.
 
